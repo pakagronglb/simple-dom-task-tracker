@@ -2,6 +2,8 @@
 
 Welcome to **Task Tracker**, the app you didn’t know you needed until you realized you’ve been putting off your to-do list for weeks! Whether you’re tracking your chores, your dream projects, or how long you've avoided the gym, this app is here to help you get things DONE.
 
+---
+
 ![Screenshot 2024-10-19 091011](https://github.com/user-attachments/assets/6e21f096-a44e-4fd4-b362-003064b15841)
 
 ---
